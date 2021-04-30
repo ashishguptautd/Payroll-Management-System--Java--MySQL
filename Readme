@@ -1,3 +1,3 @@
 A Client Server application Gui that keeps records of employees and creates, generates payslips and have functionality to calculate the wages, deduct unpaid leaves etc.
 Technology Stack used - Java, Swing, MySql, Eclipse ,Object Oriented Methodology and Design
-Database is Normalized to 3NF to reduce redundancy and transitive dependency.
+Database is Normalized to 3NF to reduce redundancy and transitive dependency
